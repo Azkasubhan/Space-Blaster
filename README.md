@@ -26,21 +26,6 @@ This project was developed as part of a hands-on exploration in computer graphic
 
 ---
 
-## ⚙️ How to Run
-
-### On macOS (Xcode):
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/space-blaster
-   cd space-blaster
-Open the project in Xcode
-Make sure GLUT and OpenGL frameworks are linked:
-Go to Build Phases → Link Binary With Libraries
-Add:
-OpenGL.framework
-GLUT.framework
-Run the project using the ▶️ Run button or press Cmd + R
-
 ## 🧠 Learning Objectives
 This project was created to:
 Understand basic concepts of computer graphics and game loops
